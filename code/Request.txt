@@ -1,0 +1,5 @@
+socket
+requests
+subprocess
+os
+datetime
